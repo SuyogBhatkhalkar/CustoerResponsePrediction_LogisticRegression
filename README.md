@@ -1,4 +1,4 @@
-# CustoerResponsePrediction_LogisticRegression
+# CustomerResponsePrediction_LogisticRegression
 Predict Customer response for ad campaign using logistic regressions model
 Marketing is essential but expensive tool. Business firms uses various tools and techniques to control marketing. Identifying  genuinely interested  customer for the product and making him to purchase the product have low probability of success. This make marketing expensive, low efficient. Data driven strategies are used to define strategies which has limitation in the era of digital marketing.
 I used the below data to predict custmer response ( Taken from kaggle : )
